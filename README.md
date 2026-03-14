@@ -1,3 +1,8 @@
+# Instructions for files:
+* First, go through the presentation for an overview of the project
+* Then, go through SnP500Analysis.ipynb
+* Finally, go through EDA_1.ipynb, which contains all the exploratory data for macro finance
+
 # Predicting U.S. Economic Stability Using Macroeconomic and Financial Indicators
 
 DSCI 521 – Drexel University
