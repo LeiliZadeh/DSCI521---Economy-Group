@@ -1,7 +1,8 @@
 # Instructions for files:
 * First, go through the presentation for an overview of the project
 * Then, go through SnP500Analysis.ipynb
-* Finally, go through EDA_1.ipynb, which contains all the exploratory data for macro finance
+* Next, go through EDA_1.ipynb, which contains all the exploratory data for macro finance
+* Finally, go through Indicators & Analysis Prediction but run it in an IDE such as (VSCode preferred for group members) as some results are truncated in the browser view of GitHub, which contains all the predictions and data for out economy predictions which contains further information for how to view the notebook
 
 # Predicting U.S. Economic Stability Using Macroeconomic and Financial Indicators
 
